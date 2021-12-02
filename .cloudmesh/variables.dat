@@ -1,0 +1,4 @@
+timer: 'True'
+debug: 'True'
+trace: 'True'
+verbose: '10'

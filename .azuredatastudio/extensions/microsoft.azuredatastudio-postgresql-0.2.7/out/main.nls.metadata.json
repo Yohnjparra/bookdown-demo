@@ -1,0 +1,15 @@
+{
+	"messages": [
+		"Deployment completed successfully.",
+		"Error: {0}",
+		"{0}",
+		"\nStarted executing query at {0}"
+	],
+	"keys": [
+		"extension.DeployCompleted",
+		"extension.deployErrorMessage",
+		"extension.deployMessage",
+		"extension.runQueryBatchStartMessage"
+	],
+	"filePath": "D:/a/1/s/out/src/main"
+}

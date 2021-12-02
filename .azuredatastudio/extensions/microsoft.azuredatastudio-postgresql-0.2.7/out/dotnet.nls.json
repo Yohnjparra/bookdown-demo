@@ -1,0 +1,5 @@
+[
+	"Install .NET Core SDK...",
+	"The .NET Core SDK was not found.",
+	"The PostgreSQL extension requires .NET Core SDK version {0} or later, but {1} was found."
+]

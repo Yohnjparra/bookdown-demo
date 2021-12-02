@@ -1,0 +1,14 @@
+[
+	"Building projects",
+	"Building projects",
+	"\nDeployment started {0}.",
+	"Deployment failed with error: {0}",
+	"Unable to find output file path to deploy.",
+	"Deploy cannot begin until your project builds successfully.",
+	"Project Name",
+	"Project names cannot be empty",
+	"Project names cannot contain any of the following characters: /?:&\\*\"<>|#%;",
+	"Project names cannot be '.' or '..'",
+	"Project names cannot contain '..'",
+	"Project with same name already exists"
+]

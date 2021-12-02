@@ -1,0 +1,15 @@
+{
+	"messages": [
+		"There is a build already running, please cancel the build before starting a new one",
+		"======== Build: {0} succeeses or up-to-date, {1} failed, {2} skipped ========",
+		"Failed to build project {0} with SDK Version {1}.\nInstalled PostgreSQL extension only supports SDK version between {2} and {3}.\n",
+		"Build has been cancelled"
+	],
+	"keys": [
+		"extension.existingBuildInProgressMessage",
+		"extension.buildSummaryMessage",
+		"extension.projectUpdateFailedMessage",
+		"extension.buildCancelMessage"
+	],
+	"filePath": "D:/a/1/s/out/src/projectHelper"
+}

@@ -1,0 +1,8 @@
+[
+	"There are some projects that use unsupported version of PostgreSQL SDK.",
+	"Update Projects",
+	"Updating PostgreSQL SDK version for file {0}.",
+	"Error updating SDK version for file {0}.",
+	"Project file {0} has been updated.",
+	"Error updating SDK version for file {0}."
+]
