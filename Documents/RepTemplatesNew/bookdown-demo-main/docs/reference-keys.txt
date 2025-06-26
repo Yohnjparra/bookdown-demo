@@ -1,6 +1,14 @@
 fig:nice-fig
 tab:nice-tab
-prerequisites
+data-types
+numeric-types
+text-type
+boolean-type
+sequence-types
+set-types
+mapping-type
+none-type
+why-data-types-matter
 intro
 literature
 methods
